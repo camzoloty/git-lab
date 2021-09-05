@@ -66,4 +66,9 @@ Date:   Sat Sep 4 17:30:58 2021 -0400
 
     Initial commit
 
-    9.
+9. On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+  
+10. 
