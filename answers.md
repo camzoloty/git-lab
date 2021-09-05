@@ -73,4 +73,10 @@ nothing to commit, working tree clean
   
 10. No
   
-11. 
+11. Nothing since its pushing not pulling.
+  
+12. Yes
+  
+13. .               .git            README.md
+..              .gitignore
+
